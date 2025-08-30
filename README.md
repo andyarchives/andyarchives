@@ -4,7 +4,7 @@ I'm Andy.\
 I'm also studying Computer Science and Philosophy at the University of New South Wales. \
 I expect to be sharing my student projects here very soon. \
 \
-In the meantime, I'll be sitting in classes and learning to code. \
+In the meantime, I'll be sitting in classes and doing my homework. \
 \
 Shoot me an email here: andrewsumanto@gmail.com
 <!--
