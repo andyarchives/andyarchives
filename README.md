@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+
+I'm Andy, and I'm studying Computer Science and Philosophy at the University of New South Wales.
+I expect to be sharing my student projects here very soon.
+
 
 <!--
 **andyarchives/andyarchives** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
